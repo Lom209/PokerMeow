@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import Alert from 'react-bootstrap/Alert';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
