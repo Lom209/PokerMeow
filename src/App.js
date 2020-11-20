@@ -19,12 +19,6 @@ Whenever you need to, be sure to use margin utilities to keep things nice
 and tidy.
 </p>
 </Alert>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Pokermeows - Coming Soon.
-        </p>
-      </header>
     </div>
   );
 }
