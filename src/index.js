@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Alerts from 'react-bootstrap/Alerts';
+import Alert from 'react-bootstrap/Alert';
 
 ReactDOM.render(
   <React.StrictMode>
