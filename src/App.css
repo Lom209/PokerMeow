@@ -1,3 +1,22 @@
+.ufc-feed{
+   display:inline-block;
+}
+
+.bellator-feed {
+    display:inline-block;
+}
+
+.onefc-feed {
+    display:inline-block;
+}
+.cw-feed {
+    display:inline-block;
+}
+
+.bkfc-feed {
+    display:inline-block;
+}
+
 .App {
   text-align: center;
 }
