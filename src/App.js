@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
+    <div>
     <Alert variant="success">
 <Alert.Heading>Hey, nice to see you</Alert.Heading>
 <p>
@@ -18,8 +19,6 @@ Whenever you need to, be sure to use margin utilities to keep things nice
 and tidy.
 </p>
 </Alert>
-<React.Fragment>
-    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -27,7 +26,6 @@ and tidy.
         </p>
       </header>
     </div>
-    </React.Fragment>
   );
 }
 
