@@ -18,6 +18,7 @@ Whenever you need to, be sure to use margin utilities to keep things nice
 and tidy.
 </p>
 </Alert>
+<React.Fragment>
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -26,6 +27,7 @@ and tidy.
         </p>
       </header>
     </div>
+    </React.Fragment>
   );
 }
 
