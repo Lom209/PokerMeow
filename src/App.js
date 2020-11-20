@@ -1,6 +1,7 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Alert from 'react-bootstrap/Alert';
+import Image from 'react-bootstrap/Image';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ Whenever you need to, be sure to use margin utilities to keep things nice
 and tidy.
 </p>
 </Alert>
+<Image src="logo.svg" thumbnail />
     </div>
   );
 }
